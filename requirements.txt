@@ -5,4 +5,7 @@ langchain
 python-dotenv
 faiss-cpu
 openai
+tiktoken
 huggingface_hub
+InstructorEmbedding
+sentence_transformers

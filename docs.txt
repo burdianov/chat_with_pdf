@@ -1,0 +1,3 @@
+Vector store:
+
+https://app.pinecone.io/
